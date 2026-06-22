@@ -7,8 +7,8 @@ const ASSETS = [
   '/static/js/chat.js',
   '/manifest.json',
   '/icon.png',
-  '/icon2.png',
-  '/static/favicon.ico'
+  '/static/favicon.ico',
+  '/static/logo.png'
 ];
 
 // Install Service Worker and cache core static assets cleanly

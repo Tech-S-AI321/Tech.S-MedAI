@@ -8,15 +8,7 @@ const ASSETS = [
   '/manifest.json',
   '/icon.png',
   '/icon2.png',
-  '/static/favicon.ico',
-  '/static/chatgpt.png',
-  '/static/deepseek.png',
-  '/static/gemini.png',
-  '/static/metaai.png',
-  '/static/nvidia.png',
-  '/static/qwen.png',
-  '/static/sarvam.png',
-  '/static/Mistral.png'
+  '/static/favicon.ico'
 ];
 
 // Install Service Worker and cache core static assets cleanly
